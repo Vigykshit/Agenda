@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f9fa;
+    background-color: #ffffff;
     margin: 0;
     padding: 0;
 }
 
 .agenda-container {
-    width: 80%;
+    width: 90%;
     margin: auto;
     background-color: #ffffff;
     border: 1px solid #e0e0e0;
@@ -49,5 +49,11 @@ tr:nth-child(even) {
 
     .meeting-agenda th, .meeting-agenda td {
         padding: 8px;
+    }
+    .agenda-container{
+        font-size: 10px ;
+    }
+    .agenda{
+        font-size: 14px;
     }
 } 
