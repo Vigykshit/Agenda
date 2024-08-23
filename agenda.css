@@ -15,21 +15,28 @@ body {
     overflow: hidden;
     padding: 20px;
 }
-
+.agenda1{
+    width: 25%;
+}
 table {
    width:100%;
     border-collapse: collapse;
     margin-bottom: 20px;
 }
+.table1{
+    padding: 0%;
+}
 
 table, th, td {
-    border: 1px solid #e0e0e0;
+    border: 3px solid #e0e0e0;
 }
 
 th, td {
     padding: 20px;
     text-align: left;
+
 }
+
 
 th {
     background-color: #d1e7dd;
